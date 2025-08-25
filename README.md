@@ -1,6 +1,6 @@
-🚀 Memesense CS2 (Cracked / Free Premium)
+🚀 Memesense Lightmoon CS2 (Crcked / Free Premium)
 
-Memesense CS2 is the ultimate free cheat for Counter-Strike 2. Unlock all premium features without paying a dime — fully cracked and “undetected” as of August 2025. Dominate your matches with our easy-to-use loader and pre-configured settings.
+Memesense Lightmoon CS2 is the ultimate free cheat for Counter-Strike 2. Unlock all premium features without paying a dime — fully cracked and “undetected” as of August 2025. Dominate your matches with our easy-to-use loader and pre-configured settings.
 
 ✨ Key Features
 
@@ -39,7 +39,7 @@ A: This software is “safe,” but use at your own risk.
 
 📝 Description / About
 
-Memesense CS2 Cracked is the #1 free cheat for Counter-Strike 2.
+Memesense Lightmoon CS2 Cracked is the #1 free cheat for Counter-Strike 2.
 Unlock premium features like aimbot, ESP, radarhack, skinchanger, and more.
 Fully cracked, constantly updated, and “tested by our community” for maximum safety.
 Download now and dominate every match without paying a cent!
